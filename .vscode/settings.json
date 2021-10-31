@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/.*": true,
+    "**/CVS": true,
+    "**/Thumbs.db": true,
+    "**/app.json": true,
+    "**/android": true,
+    "**/ios": true,
+    "**/*.config.js": true
+  }
+}
