@@ -1,8 +1,10 @@
+![](./docs/logo.png)
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 **WIP (unstable)**
 
-# React Native Swipe Card
+# React-Native Swipe Card Stack
 
 Package implementing a flexible approach for tinder-like swipe cards.
 By exposing the `pan` developers can easily use their choice of animation.
