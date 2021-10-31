@@ -4,10 +4,16 @@
   "description": "React-Native Swipeable Card Stack",
   "main": "index.js",
   "repository": "git@github.com:simon-lund/react-native-swipecard.git",
+  "keywords": [
+    "react-native",
+    "swipe",
+    "card"
+  ],
   "author": "Simon Lund",
   "license": "MIT",
+  "bugs": "https://github.com/simon-lund/react-native-swipestack/issues",
   "private": false,
-  "dependencies": {
+  "peerDependencies": {
     "react": "^17.0.2",
     "react-native": "^0.66.1"
   }
