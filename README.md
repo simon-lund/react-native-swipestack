@@ -1,6 +1,23 @@
-![](./docs/logo.png)
+<p align="center">
+    <image src="./docs/logo.png" alt="react-native-swipe-card logo"/>
+</p>
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+<p align="center">
+   <a href="https://reactnative.dev">React Native</a> - Swipe Card Stack
+</p>
+
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-native-swipestack"><img src="https://img.shields.io/npm/v/react-native-swipestack.svg"></a>
+  <a href="https://github.com/simon-lund/react-native-swipestack"><img src="https://img.shields.io/github/stars/simon-lund/react-native-swipestack"></a>
+  <a href="https://www.npmjs.com/package/react-native-swipestack"><img src="https://img.shields.io/npm/dm/react-native-swipestack.svg"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
+
 
 **WIP (unstable)**
 
