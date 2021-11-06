@@ -2,7 +2,12 @@
   "name": "react-native-swipestack",
   "version": "0.2.1",
   "description": "React-Native Swipeable Card Stack",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib --extensions '.js,.ts,.tsx'",
+    "tsc": "tsc",
+    "prepublish": "yarn run build"
+  },
   "repository": "git@github.com:simon-lund/react-native-swipecard.git",
   "keywords": [
     "react-native",
@@ -18,5 +23,14 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "react-native": "^0.66.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/react": "^17.0.34",
+    "@types/react-native": "^0.66.2",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "typescript": "^4.4.4"
   }
 }
