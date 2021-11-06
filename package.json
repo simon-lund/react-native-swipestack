@@ -6,8 +6,10 @@
   "repository": "git@github.com:simon-lund/react-native-swipecard.git",
   "keywords": [
     "react-native",
-    "swipe",
-    "card"
+    "swipe card",
+    "swipeable",
+    "tinder",
+    "card stack"
   ],
   "author": "Simon Lund",
   "license": "MIT",
