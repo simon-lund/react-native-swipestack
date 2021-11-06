@@ -1,0 +1,35 @@
+Backlog:
+- add tests
+- document code
+- how to add effects to the second card?
+- add stack animation
+- stackmode (?) -> cards shown as deck
+ 
+Important:
+- undo animation -> faster
+- update npmignore
+
+
+Documentation
+- add links to readme
+- only for mobile devices
+- update readme
+- write about usage in older repos
+
+
+Feature 1 - Additional Props:
+- rotationAngle
+- verticalThreshold
+- support all directions
+- add allowed directions
+- swipe disabled prop
+
+
+Feature 2 - SwipeStack:
+- keyExtractor
+- renderItem <- index == index from top of stack>
+- data
+- add emptyStackComponent
+=> implement swipe stack
+
+
